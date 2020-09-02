@@ -2,10 +2,6 @@
 ```bash
 echo "Hello World"
 ```
-
-(```)
-    function fun(){
-         echo "这是一句非常牛逼的代码";
-    }
-    fun();
-(```)
+**hello world**  加粗字体，左右加两个星号
+*hello world*    斜体字，左右各1个星号
+***hello world***  斜体加粗，左右各3个星号
