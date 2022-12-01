@@ -43,7 +43,7 @@ echo "Hello World"
 ```
 *****
 ```
-function fun(){echo "这是一句非常牛逼的代码";}fun();
+function fun(){echo "这是一句非常厉害的代码";}fun();
 ```
 
 *****
